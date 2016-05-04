@@ -1,6 +1,6 @@
 {
   "name": "chain-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handle asynchronous tasks gracefully",
   "main": "src/index.js",
   "scripts": {
